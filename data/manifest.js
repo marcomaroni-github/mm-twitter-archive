@@ -45,5 +45,5 @@ window.ARCHIVE_MANIFEST = {
   "totalTweets": 16402,
   "lang": "it",
   "exportedAt": "2024-04-08T15:59:18.409Z",
-  "generatedAt": "2026-09-28T13:26:32.192Z"
+  "generatedAt": "2026-09-28T13:40:41.546Z"
 };
